@@ -8,10 +8,16 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Step-by-step explanation (student friendly)
+2. Imports
+3. Load dataset
+4. Prepare input X and target Y
+5. Train/test split
+6. Create and train the linear model
+7. Predict on test set
+8. Plots
+9. Evaluation metrics
+10. Predict new samples
 
 ## Program:
 ```
